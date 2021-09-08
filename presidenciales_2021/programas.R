@@ -18,7 +18,7 @@ options(scipen=999)
 # Directorio de trabajo
 setwd('/Users/Nicolas/Documents/MDS-UAI/Programación con R/LinkedIn/programas_candidatos_presidenciales')
 
-# Se cargan los discursos
+# Se cargan los programas
 
 boric <- pdf_text('programa_boric.pdf')
 boric <- paste(boric, collapse = " ")
