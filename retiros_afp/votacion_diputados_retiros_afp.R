@@ -1,7 +1,7 @@
-#################################
-# Votación diputados retiros AFP
+######################################
+# Votación diputados retiros 10% AFPs
 # por Nicolás Rivera
-#################################
+######################################
 
 # Se cargan paquetes
 library(tidyverse)
